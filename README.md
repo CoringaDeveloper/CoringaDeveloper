@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CoringaDeveloper
-- 👀 I’m interested in design ui/ux
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in: design ui/ux
+- 🌱 I’m currently learning: javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me > coringapkrlh - discord
 - 😄 Pronouns: Lucas
 - ⚡ Fun fact: ...
 
